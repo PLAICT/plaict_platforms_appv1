@@ -1,1 +1,1 @@
-# plaict_platforms_appv1
+# PLAICT PLATFORMS PROTOTYPE V1
